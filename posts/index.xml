@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Daeun Song</title>
-    <link>http://daeunsong.github.io/posts/</link>
+    <link>https://daeunSong.github.io/posts/</link>
     <description>Recent content in Posts on Daeun Song</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2020 17:35:47 +0900</lastBuildDate><atom:link href="http://daeunsong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2020 17:35:47 +0900</lastBuildDate><atom:link href="https://daeunSong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://daeunsong.github.io/posts/test/</link>
+      <link>https://daeunSong.github.io/posts/test/</link>
       <pubDate>Wed, 18 Nov 2020 17:35:47 +0900</pubDate>
       
-      <guid>http://daeunsong.github.io/posts/test/</guid>
+      <guid>https://daeunSong.github.io/posts/test/</guid>
       <description></description>
     </item>
     
