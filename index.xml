@@ -4,16 +4,6 @@
     <title>Daeun Song</title>
     <link>https://daeunSong.github.io/</link>
     <description>Recent content on Daeun Song</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Nov 2020 17:35:47 +0900</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://daeunSong.github.io/posts/test/</link>
-      <pubDate>Wed, 18 Nov 2020 17:35:47 +0900</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/test/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
