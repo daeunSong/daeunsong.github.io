@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://daeunSong.github.io/posts/ral21/</loc>
+    <lastmod>2020-11-18T17:35:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/posts/icra20/</loc>
+    <lastmod>2020-11-18T17:35:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daeunSong.github.io/</loc>
     <lastmod>2020-11-18T17:35:47+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://daeunSong.github.io/posts/</loc>
-    <lastmod>2020-11-18T17:35:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://daeunSong.github.io/posts/test/</loc>
     <lastmod>2020-11-18T17:35:47+09:00</lastmod>
   </url>
   
