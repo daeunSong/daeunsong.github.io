@@ -23,12 +23,15 @@
   </url>
   
   <url>
-    <loc>https://daeunSong.github.io/publications/</loc>
-    <priority>0</priority>
+    <loc>https://daeunSong.github.io/posts/alteredgravity/</loc>
   </url>
   
   <url>
     <loc>https://daeunSong.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/categories/conference/</loc>
   </url>
   
   <url>
@@ -45,6 +48,10 @@
   
   <url>
     <loc>https://daeunSong.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/publications/</loc>
   </url>
   
 </urlset>
