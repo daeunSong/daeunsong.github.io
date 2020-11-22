@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daeun Song</title>
-    <link>https://daeunSong.github.io/</link>
-    <description>Recent content on Daeun Song</description>
+    <title>International Conference on Daeun Song</title>
+    <link>https://daeunSong.github.io/categories/international-conference/</link>
+    <description>Recent content in International Conference on Daeun Song</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Solving Footstep Planning as a Feasibility Problem using L1-norm Minimization</title>
-      <link>https://daeunSong.github.io/posts/ral21/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/ral21/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/categories/international-conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning to steer a locomotion contact planner </title>
       <link>https://daeunSong.github.io/posts/icra21/</link>
@@ -48,24 +39,6 @@
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/icra18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Full-body Animation of Human Locomotion in Reduced Gravity using Physics-based Control</title>
-      <link>https://daeunSong.github.io/posts/alteredgravity/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/alteredgravity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>📝 Publications</title>
-      <link>https://daeunSong.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/publications/</guid>
       <description></description>
     </item>
     
