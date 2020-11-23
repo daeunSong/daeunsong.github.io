@@ -8,55 +8,55 @@
     <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving Footstep Planning as a Feasibility Problem using L1-norm Minimization</title>
-      <link>https://daeunSong.github.io/posts/ral21/</link>
+      <link>https://daeunSong.github.io/posts/publications/ral21/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/ral21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to steer a locomotion contact planner </title>
-      <link>https://daeunSong.github.io/posts/icra21/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/icra21/</guid>
+      <guid>https://daeunSong.github.io/posts/publications/ral21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SL1M: Sparse L1-norm Minimization for contact planning on uneven terrain</title>
-      <link>https://daeunSong.github.io/posts/icra20/</link>
+      <link>https://daeunSong.github.io/posts/publications/icra20/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/icra20/</guid>
+      <guid>https://daeunSong.github.io/posts/publications/icra20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distortion-free Robotic Surface-drawing using Conformal Mapping</title>
-      <link>https://daeunSong.github.io/posts/icra19/</link>
+      <link>https://daeunSong.github.io/posts/publications/icra19/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/icra19/</guid>
+      <guid>https://daeunSong.github.io/posts/publications/icra19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot</title>
-      <link>https://daeunSong.github.io/posts/icra18/</link>
+      <link>https://daeunSong.github.io/posts/publications/icra18/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/icra18/</guid>
+      <guid>https://daeunSong.github.io/posts/publications/icra18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-body Animation of Human Locomotion in Reduced Gravity using Physics-based Control</title>
-      <link>https://daeunSong.github.io/posts/alteredgravity/</link>
+      <link>https://daeunSong.github.io/posts/publications/alteredgravity/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/alteredgravity/</guid>
+      <guid>https://daeunSong.github.io/posts/publications/alteredgravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to steer a locomotion contact planner </title>
+      <link>https://daeunSong.github.io/posts/publications/icra21/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/icra21/</guid>
       <description></description>
     </item>
     
