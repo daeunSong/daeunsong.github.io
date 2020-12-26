@@ -33,6 +33,26 @@
   </url>
   
   <url>
+    <loc>https://daeunSong.github.io/posts/sidestuff/glurdf/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/posts/sidestuff/ssk/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/posts/sidestuff/blackbox/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/posts/sidestuff/toystory/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daeunSong.github.io/categories/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -67,6 +87,10 @@
   
   <url>
     <loc>https://daeunSong.github.io/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daeunSong.github.io/sidestuff/</loc>
   </url>
   
 </urlset>
