@@ -4,6 +4,25 @@
     <title>Categories on Daeun Song</title>
     <link>https://daeunSong.github.io/categories/</link>
     <description>Recent content in Categories on Daeun Song</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://daeunSong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>International Journal</title>
+      <link>https://daeunSong.github.io/categories/international-journal/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/categories/international-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference</title>
+      <link>https://daeunSong.github.io/categories/international-conference/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/categories/international-conference/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
