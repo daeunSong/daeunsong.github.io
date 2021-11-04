@@ -5,7 +5,7 @@
     <link>https://daeunSong.github.io/</link>
     <description>Recent content on Daeun Song</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving Footstep Planning as a Feasibility Problem using L1-norm Minimization</title>
       <link>https://daeunSong.github.io/posts/publications/ral21/</link>
@@ -48,6 +48,33 @@
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/publications/alteredgravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSP Pen Art using a Mobile Collaborative Robot</title>
+      <link>https://daeunSong.github.io/posts/publications/kcgs21/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/kcgs21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distortion-free Robotic Surface-drawing using Conformal Mapping</title>
+      <link>https://daeunSong.github.io/posts/publications/kroc20/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/kroc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;BR&gt;Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot</title>
+      <link>https://daeunSong.github.io/posts/publications/kroc18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/kroc18/</guid>
       <description></description>
     </item>
     
