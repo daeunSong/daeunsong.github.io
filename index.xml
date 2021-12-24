@@ -89,37 +89,37 @@
     
     <item>
       <title>GLurdf</title>
-      <link>https://daeunSong.github.io/posts/sidestuff/glurdf/</link>
+      <link>https://daeunSong.github.io/posts/misc/glurdf/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/sidestuff/glurdf/</guid>
+      <guid>https://daeunSong.github.io/posts/misc/glurdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotic Drawing System on Uneven Surface</title>
-      <link>https://daeunSong.github.io/posts/sidestuff/ssk/</link>
+      <link>https://daeunSong.github.io/posts/projects/ssk/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/sidestuff/ssk/</guid>
+      <guid>https://daeunSong.github.io/posts/projects/ssk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Box</title>
-      <link>https://daeunSong.github.io/posts/sidestuff/blackbox/</link>
+      <link>https://daeunSong.github.io/posts/misc/blackbox/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/sidestuff/blackbox/</guid>
+      <guid>https://daeunSong.github.io/posts/misc/blackbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy&#39;s Room Shooting Game</title>
-      <link>https://daeunSong.github.io/posts/sidestuff/toystory/</link>
+      <link>https://daeunSong.github.io/posts/misc/toystory/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/sidestuff/toystory/</guid>
+      <guid>https://daeunSong.github.io/posts/misc/toystory/</guid>
       <description></description>
     </item>
     
@@ -133,11 +133,29 @@
     </item>
     
     <item>
+      <title>💡 Research Projects</title>
+      <link>https://daeunSong.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>📝 Publications</title>
       <link>https://daeunSong.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🧰 Side Projects</title>
+      <link>https://daeunSong.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/misc/</guid>
       <description></description>
     </item>
     
