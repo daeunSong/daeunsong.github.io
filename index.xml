@@ -88,38 +88,77 @@
     </item>
     
     <item>
-      <title>GLurdf</title>
-      <link>https://daeunSong.github.io/posts/misc/glurdf/</link>
+      <title>Footstep Planning for Legged Robots</title>
+      <link>https://daeunSong.github.io/posts/projects/footstep/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/misc/glurdf/</guid>
+      <guid>https://daeunSong.github.io/posts/projects/footstep/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robotic Drawing System on Uneven Surface</title>
-      <link>https://daeunSong.github.io/posts/projects/ssk/</link>
+      <title>Robotic Drawing System</title>
+      <link>https://daeunSong.github.io/posts/projects/darwing/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daeunSong.github.io/posts/projects/ssk/</guid>
+      <guid>https://daeunSong.github.io/posts/projects/darwing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locomotion in Altered Gravity</title>
+      <link>https://daeunSong.github.io/posts/projects/alteredg/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/projects/alteredg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridgeback &#43; iiwa integration</title>
+      <link>https://daeunSong.github.io/posts/misc/ridgeback_iiwa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/misc/ridgeback_iiwa/</guid>
+      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
+   --  Results            </description>
+    </item>
+    
+    <item>
+      <title>glURDF</title>
+      <link>https://daeunSong.github.io/posts/misc/glurdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/misc/glurdf/</guid>
+      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
+   --  Results            </description>
+    </item>
+    
+    <item>
+      <title>Continuous Collision Detection</title>
+      <link>https://daeunSong.github.io/posts/misc/collision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/misc/collision/</guid>
+      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
+   --  Results            </description>
+    </item>
+    
+    <item>
+      <title>Andy&#39;s Room Shooting Game</title>
+      <link>https://daeunSong.github.io/posts/misc/toystory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/misc/toystory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Box</title>
       <link>https://daeunSong.github.io/posts/misc/blackbox/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/blackbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andy&#39;s Room Shooting Game</title>
-      <link>https://daeunSong.github.io/posts/misc/toystory/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/misc/toystory/</guid>
       <description></description>
     </item>
     
@@ -142,20 +181,20 @@
     </item>
     
     <item>
+      <title>📂 Side Projects</title>
+      <link>https://daeunSong.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>📝 Publications</title>
       <link>https://daeunSong.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>🧰 Side Projects</title>
-      <link>https://daeunSong.github.io/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/misc/</guid>
       <description></description>
     </item>
     
