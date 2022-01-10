@@ -3,11 +3,11 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
-<title>Human Locomotion Animation in Altered Gravity - Daeun Song</title>
+<title>Robotic Drawing System - Daeun Song</title>
 <meta name=keywords content>
-<meta name=description content="Human Locomotion Animation in Altered Gravity - Daeun Song">
+<meta name=description content="Robotic Drawing System - Daeun Song">
 <meta name=author content>
-<link rel=canonical href=https://daeunSong.github.io/posts/projects/alteredg/>
+<link rel=canonical href=https://daeunSong.github.io/posts/projects/drawing/>
 <link href=https://daeunSong.github.io/assets/css/stylesheet.min.ee5f48f298d667e22c25013d7f25efc82e5984bc8f122f4ef95c6d5d3a72b0e2.css integrity="sha256-7l9I8pjWZ+IsJQE9fyXvyC5ZhLyPEi9O+VxtXTpysOI=" rel="preload stylesheet" as=style>
 <link rel=icon href=https://daeunSong.github.io/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=https://daeunSong.github.io/favicon-16x16.png>
@@ -17,16 +17,16 @@
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.89.0">
-<meta property="og:title" content="Human Locomotion Animation in Altered Gravity">
+<meta property="og:title" content="Robotic Drawing System">
 <meta property="og:description" content>
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://daeunSong.github.io/posts/projects/alteredg/">
+<meta property="og:url" content="https://daeunSong.github.io/posts/projects/drawing/">
 <meta property="og:image" content="https://daeunSong.github.io/img/sl1m_teaser.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://daeunSong.github.io/img/sl1m_teaser.png">
-<meta name=twitter:title content="Human Locomotion Animation in Altered Gravity">
+<meta name=twitter:title content="Robotic Drawing System">
 <meta name=twitter:description content>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Human Locomotion Animation in Altered Gravity","name":"Human Locomotion Animation in Altered Gravity","description":"","keywords":[],"articleBody":" Extended version: Under Review  arxiv pdf video    --    --- -- Abstract We propose a new physics-based approach to simulate the full-body animation of human locomotion in a reduced gravity environment, such as the Moon or Mars. As input, our method takes motion-captured human motions under Earth’s gravitational condition and builds an inverted-pendulum on cart (IPC) control model, which is analyzed using the motion-captured data. Then, for a given gravity condition, we first estimate the desired velocity as well as stride frequency of our character model using the Froude number, map its control model to the altered gravity and plan footsteps that can match the given environmental condition. Using our technique, we can generate stable and robust human gaits in reduced gravity including different gait characteristics. We also compare our results to a known, analytical gait model in the biomechanical literature for reduced gravity, and verify that our method matches the results.\n   --  Related Publications  IEEE CG\u0026A 2017, “Full-body Animation of Human Locomotion in Reduced Gravity using Physics-based Control”  ","wordCount":"168","inLanguage":"en","image":"https://daeunSong.github.io/img/sl1m_teaser.png","datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Daeun Song"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://daeunSong.github.io/posts/projects/alteredg/"},"publisher":{"@type":"Organization","name":"Daeun Song","logo":{"@type":"ImageObject","url":"https://daeunSong.github.io/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Robotic Drawing System","name":"Robotic Drawing System","description":"","keywords":[],"articleBody":" Extended version: Under Review  arxiv pdf video    --    --- -- Abstract One of the main challenges of planning legged locomotion in complex environments is the combinatorial contact selection problem. Recent contributions propose to use integer variables to represent which contact surface is selected, and then to rely on modern mixed-integer (MI) optimization solvers to handle this combinatorial issue. To reduce the computational cost of MI, we exploit the sparsity properties of L1 norm minimization techniques to relax the contact planning problem into a feasibility linear program. Our approach accounts for kinematic reachability of the center of mass (COM) and of the contact effectors. We ensure the existence of a quasi-static COM trajectory by restricting our plan to quasi-flat contacts. For planning 10 steps with less than 10 potential contact surfaces for each phase, our approach is 50 to 100 times faster that its MI counterpart, which suggests potential applications for online contact re-planning. The method is demonstrated in simulation with the humanoid robots HRP-2 and Talos over various scenarios.\n   --  Related Publications   ICRA 2019, “Distortion-free Robotic Surface-drawing using Conformal Mapping”\n  ICRA 2018, “Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot”\n  KCGS 2021, “TSP Pen Art using a Mobile Manipulator Robot”, (extended abstract) 🏆 BEST UNDERGRAD PAPER AWARD\n  KRoC 2020, “Distortion-free Robotic Surface-drawing using Conformal Mapping” (extended abstract)\n  KRoC 2018, “Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot” (extended abstract) 🏆 BEST PAPER AWARD\n  ","wordCount":"239","inLanguage":"en","image":"https://daeunSong.github.io/img/sl1m_teaser.png","datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Daeun Song"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://daeunSong.github.io/posts/projects/drawing/"},"publisher":{"@type":"Organization","name":"Daeun Song","logo":{"@type":"ImageObject","url":"https://daeunSong.github.io/favicon.ico"}}}</script>
 </head>
 <body class=single id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):document.body.classList.remove('dark')</script>
@@ -65,22 +65,36 @@ CV
 <article class=post-single>
 <header class=post-header>
 <h1 class=post-title>
-Human Locomotion Animation in Altered Gravity
+Robotic Drawing System
 </h1>
 <div class=post-meta>
 </div>
 <footer class=post-footer>
-<h4>2016</h4>
+<h4>2016 - 2018, 2021</h4>
 </footer>
 </header>
 <div class=post-content>
 <hr>
 <h3 id=abstract>Abstract<a hidden class=anchor aria-hidden=true href=#abstract>#</a></h3>
-<p>We propose a new physics-based approach to simulate the full-body animation of human locomotion in a reduced gravity environment, such as the Moon or Mars. As input, our method takes motion-captured human motions under Earth&rsquo;s gravitational condition and builds an inverted-pendulum on cart (IPC) control model, which is analyzed using the motion-captured data. Then, for a given gravity condition, we first estimate the desired velocity as well as stride frequency of our character model using the Froude number, map its control model to the altered gravity and plan footsteps that can match the given environmental condition. Using our technique, we can generate stable and robust human gaits in reduced gravity including different gait characteristics. We also compare our results to a known, analytical gait model in the biomechanical literature for reduced gravity, and verify that our method matches the results.</p>
+<p>One of the main challenges of planning legged locomotion in complex environments is the combinatorial contact selection problem. Recent contributions propose to use integer variables to represent which contact surface is selected, and then to rely on modern mixed-integer (MI) optimization solvers to handle this combinatorial issue. To reduce the computational cost of MI, we exploit the sparsity properties of L1 norm minimization techniques to relax the contact planning problem into a feasibility linear program. Our approach accounts for kinematic reachability of the center of mass (COM) and of the contact effectors. We ensure the existence of a quasi-static COM trajectory by restricting our plan to quasi-flat contacts. For planning 10 steps with less than 10 potential contact surfaces for each phase, our approach is 50 to 100 times faster that its MI counterpart, which suggests potential applications for online contact re-planning. The method is demonstrated in simulation with the humanoid robots HRP-2 and Talos over various scenarios.</p>
 <hr>
 <h3 id=related-publications>Related Publications<a hidden class=anchor aria-hidden=true href=#related-publications>#</a></h3>
 <ul>
-<li><strong>IEEE CG&A 2017</strong>, &ldquo;<a href=http://graphics.ewha.ac.kr/alteredgravity>Full-body Animation of Human Locomotion in Reduced Gravity using Physics-based Control</a>&rdquo;</li>
+<li>
+<p><strong>ICRA 2019</strong>, &ldquo;<a href=http://graphics.ewha.ac.kr/SSK>Distortion-free Robotic Surface-drawing using Conformal Mapping</a>&rdquo;</p>
+</li>
+<li>
+<p><strong>ICRA 2018</strong>, &ldquo;<a href=http://graphics.ewha.ac.kr/SSK>Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot</a>&rdquo;</p>
+</li>
+<li>
+<p><strong>KCGS 2021</strong>, &ldquo;<a href=http:://graphics.ewha.ac.kr/TSPArt>TSP Pen Art using a Mobile Manipulator Robot</a>&rdquo;, (extended abstract) <strong>🏆 BEST UNDERGRAD PAPER AWARD</strong></p>
+</li>
+<li>
+<p><strong>KRoC 2020</strong>, &ldquo;Distortion-free Robotic Surface-drawing using Conformal Mapping&rdquo; (extended abstract)</p>
+</li>
+<li>
+<p><strong>KRoC 2018</strong>, &ldquo;Artistic Pen Drawing on an Arbitrary Surface using an Impedance-controlled Robot&rdquo; (extended abstract) <strong>🏆 BEST PAPER AWARD</strong></p>
+</li>
 </ul>
 <hr>
 </div>
