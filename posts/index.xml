@@ -88,15 +88,6 @@
     </item>
     
     <item>
-      <title>Footstep Planning for Legged Robots</title>
-      <link>https://daeunSong.github.io/posts/projects/footstep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/projects/footstep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Robotic Drawing System</title>
       <link>https://daeunSong.github.io/posts/projects/drawing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,12 +97,21 @@
     </item>
     
     <item>
+      <title>Footstep Planning for Legged Robots</title>
+      <link>https://daeunSong.github.io/posts/projects/footstep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/projects/footstep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human Locomotion Animation in Altered Gravity</title>
       <link>https://daeunSong.github.io/posts/projects/alteredg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/projects/alteredg/</guid>
-      <description></description>
+      <description>Abstract We propose a new physics-based approach to simulate the full-body animation of human locomotion in a reduced gravity environment, such as the Moon or Mars. As input, our method takes motion-captured human motions under Earth&amp;rsquo;s gravitational condition and builds an inverted-pendulum on cart (IPC) control model, which is analyzed using the motion-captured data. Then, for a given gravity condition, we first estimate the desired velocity as well as stride frequency of our character model using the Froude number, map its control model to the altered gravity and plan footsteps that can match the given environmental condition.</description>
     </item>
     
     <item>
@@ -120,8 +120,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/ridgeback_iiwa/</guid>
-      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
-   --  Results            </description>
+      <description> Introduction  </description>
     </item>
     
     <item>
@@ -130,8 +129,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/glurdf/</guid>
-      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
-   --  Results            </description>
+      <description> Introduction glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
+👋 Say hi to Talos and Fetch!    --  Results            </description>
     </item>
     
     <item>
@@ -140,8 +139,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/collision/</guid>
-      <description>  *👋 Say hi to Talos and Fetch!*-- 👋 Say hi to Talos and Fetch! glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
-   --  Results            </description>
+      <description> Introduction  </description>
     </item>
     
     <item>
