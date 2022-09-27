@@ -5,7 +5,7 @@
     <link>https://daeunSong.github.io/categories/international-conference/</link>
     <description>Recent content in International Conference on Daeun Song</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/categories/international-conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/categories/international-conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SL1M: Sparse L1-norm Minimization for contact planning on uneven terrain</title>
       <link>https://daeunSong.github.io/posts/publications/icra20/</link>
@@ -39,6 +39,24 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/publications/icra21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSP-Bot: Robotic TSP Pen Art using High-DoF Manipulators</title>
+      <link>https://daeunSong.github.io/posts/publications/icra23/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/icra23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stroke-based Rendering and Planning for Robotic Performance of Artistic Drawing</title>
+      <link>https://daeunSong.github.io/posts/publications/icra23_sbr/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/icra23_sbr/</guid>
       <description></description>
     </item>
     

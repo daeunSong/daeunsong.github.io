@@ -5,7 +5,7 @@
     <link>https://daeunSong.github.io/</link>
     <description>Recent content on Daeun Song</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://daeunSong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving Footstep Planning as a Feasibility Problem using L1-norm Minimization</title>
       <link>https://daeunSong.github.io/posts/publications/ral21/</link>
@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>Robotic Pen-art System for Large, Non-planar Canvas</title>
+      <link>https://daeunSong.github.io/posts/publications/kcgs22/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/kcgs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TSP Pen Art using a Mobile Collaborative Robot</title>
       <link>https://daeunSong.github.io/posts/publications/kcgs21/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
@@ -88,6 +97,33 @@
     </item>
     
     <item>
+      <title>TSP-Bot: Robotic TSP Pen Art using High-DoF Manipulators</title>
+      <link>https://daeunSong.github.io/posts/publications/icra23/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/icra23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stroke-based Rendering and Planning for Robotic Performance of Artistic Drawing</title>
+      <link>https://daeunSong.github.io/posts/publications/icra23_sbr/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/icra23_sbr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSK: Robotic Pen-art System for Large, Non-planar Canvas</title>
+      <link>https://daeunSong.github.io/posts/publications/tro22/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/posts/publications/tro22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robotic Drawing System</title>
       <link>https://daeunSong.github.io/posts/projects/drawing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,7 +147,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/projects/alteredg/</guid>
-      <description>Abstract We propose a new physics-based approach to simulate the full-body animation of human locomotion in a reduced gravity environment, such as the Moon or Mars. As input, our method takes motion-captured human motions under Earth&amp;rsquo;s gravitational condition and builds an inverted-pendulum on cart (IPC) control model, which is analyzed using the motion-captured data. Then, for a given gravity condition, we first estimate the desired velocity as well as stride frequency of our character model using the Froude number, map its control model to the altered gravity and plan footsteps that can match the given environmental condition.</description>
+      <description></description>
     </item>
     
     <item>
