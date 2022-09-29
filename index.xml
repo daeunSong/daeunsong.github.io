@@ -151,21 +151,12 @@
     </item>
     
     <item>
-      <title>Dual UR5e with Robotic 3F grippers</title>
-      <link>https://daeunSong.github.io/posts/misc/dual_arm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/posts/misc/dual_arm/</guid>
-      <description> Introduction  </description>
-    </item>
-    
-    <item>
       <title>Ridgeback &#43; iiwa integration</title>
       <link>https://daeunSong.github.io/posts/misc/ridgeback_iiwa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/ridgeback_iiwa/</guid>
-      <description> Introduction  </description>
+      <description> Introduction </description>
     </item>
     
     <item>
@@ -175,7 +166,7 @@
       
       <guid>https://daeunSong.github.io/posts/misc/glurdf/</guid>
       <description> Introduction glURDF aims to visualize the robot models provided with URDF file using OpenGL. This project was done for my course project,
-👋 Say hi to Talos and Fetch!    --  Results            </description>
+👋 Say hi to Talos and Fetch! Results </description>
     </item>
     
     <item>
@@ -184,7 +175,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/collision/</guid>
-      <description> Introduction  </description>
+      <description> Introduction </description>
     </item>
     
     <item>
@@ -202,15 +193,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/posts/misc/blackbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://daeunSong.github.io/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daeunSong.github.io/aboutme/</guid>
       <description></description>
     </item>
     
@@ -238,6 +220,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daeunSong.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://daeunSong.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daeunSong.github.io/aboutme/</guid>
       <description></description>
     </item>
     
