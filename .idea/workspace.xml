@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed3fd11-e690-4290-9c00-e718fbc93561" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/aboutme/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/domestic-conference/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/domestic-conference/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/domestic-conference/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-conference/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-conference/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-conference/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-conference/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-journal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-journal/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/international-journal/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/alteredgravity_teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icra18_teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icra19_teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icra21_teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_result_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_result_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_result_3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_result_4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_result_5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ral21_teaser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sl1m_teaser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/demo_fetch_say_hi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/demo_talos.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/demo_talos_say_hi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/fetch_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/talos_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/talos_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/glurdf/talos_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/AndyRoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/AndyRoom_full.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/AndyRoom_ref.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/AndyRoom_woody_ref.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/AndysRoom_final.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/character.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/cover.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/enemy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/scoreboard1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/scoreboard2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/shooting.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/woody.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/woody_gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/toystory/woody_walking.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/alteredgravity.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/icra18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/icra19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/icra20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/kcgs21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/kroc18_poster.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/kroc20_poster.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/ral21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/ral21_extended.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/misc/blackbox/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/misc/collision/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/misc/glurdf/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/misc/ridgeback_iiwa/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/misc/toystory/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/projects/alteredg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/projects/drawing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/projects/footstep/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/alteredgravity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra18/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra19/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra21/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra23/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/icra23_sbr/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/kcgs21/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/kcgs22/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/kroc18/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/kroc20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/ral21/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/publications/tro22/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runEarth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runEarth_sk.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runMoon_cover.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runMoon_realMotion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runMoon_trajectory.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/alteredg/runMoon_trajectory_cropped.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/series/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/series/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidestuff/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fl65JMfJEDgZKFIwRavNfuB20N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/daeun/personal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed3fd11-e690-4290-9c00-e718fbc93561" name="Changes" comment="" />
+      <created>1665054138373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665054138373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
