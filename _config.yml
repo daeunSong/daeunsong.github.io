@@ -1,12 +1,10 @@
 ### Site Settings ###
 title               : Daeun Song
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Postdoctoral Associate <a href="https://www.ewha.ac.kr">@Ewha Womans University</a> studying Robotics :robot:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : daeunSong/daeunSong.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : daeunSong/portfolYOU
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -28,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Daeun Song
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : assets/avatar3.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : daeunsong@ewhain.net
@@ -38,11 +36,12 @@ author:
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : daeunSong
+  scholar           : scholar.google.com/citations?user=hq8STUoAAAAJ&hl=ko&oi=ao
+#  tumblr            : your_username.tumblr.com
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
 # twitch            : your_username
 #  twitter           : your_username
 # vimeo             : your_username
@@ -50,8 +49,9 @@ author:
 # keybase           : your_username
 
 
+
 ### Posts ###
-permalink: /blog/:title
+permalink: /publications/:title
 
 
 ### Collections ###
@@ -60,7 +60,7 @@ collections:
     output: true
     permalink: /projects/:name
   elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+    output: false                                       # For Documentation Only
 
 
 #### Disqus ###
@@ -102,6 +102,11 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      comments: false
 
 
 ### Exclude from processing ###
