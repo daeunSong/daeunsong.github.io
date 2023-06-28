@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<center><h1><b>{{ page.title }}</b></h1></center>
+<BR>
+<p class="post-center">
+  {{ page.author }}
+  <i>{{ page.publication }}</i>
+  <br>
+</p>
+
+{{ content }}
+
+{% if page.comments %}
+<div class="pt-5">
+  {% include blog/disqus.html %}
+</div>
+{% endif %}

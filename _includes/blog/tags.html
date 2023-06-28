@@ -1,0 +1,44 @@
+<!-- Collect tags from all posts -->
+{%- assign tags = blank -%}
+{%- for post in site.posts -%}
+  {%- assign post_tags = post.tags | join:'|' | append:'|' -%}
+  {%- if post_tags != '|' -%}
+    {%- assign tags = tags | append:post_tags -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tags = tags | split:'|' | uniq -%}
+
+<!-- List tags & related posts -->
+{% for tag in tags %}
+<div class="py-3">
+  <h4 id="{{ tag | slugify }}">{{ tag }}</h4><BR>
+<!--  <ol>-->
+  {% for post in site.posts %}
+    {%- if post.tags contains tag -%}
+      {%- if post.abstract -%}
+        <p class="post-title">{{ post.title }}</p><small class="text-muted"> (extended abstract)</small>
+      {%- else -%}
+        <p class="post-title">
+        {%- if post.external_url -%}
+          {%- assign url = post.external_url -%}
+          <a href="{{ url }}" target="_blank">{{ post.title }}</a>
+        {%- else -%}
+          {%- assign url = post.url | relative_url -%}
+          <a href="{{ url }}">{{ post.title }}</a>
+        {%- endif -%}
+        </p>
+      {%- endif -%}
+      <p class="post-small" style="color: #6c757d"> {{ post.author}} <BR>
+<!--    <p>{% for author in post.author %}{{ author }}, {% endfor %}<BR>-->
+      <i>{{ post.publication }}</i></p>
+      {% for link in post.links %}
+        <p class="post-link"><a href="{{ link.url }}" target="_blank">{{ link.name }}</a></p>
+      {% endfor %}
+      <p style="font-size: 5pt;"></p>
+    {%- endif -%}
+  {% endfor %}
+<!--  </ol>-->
+</div>
+<hr class="bg-light">
+{% endfor %}
+<p class="post-right">*:SCI (Science Citation Index)-listed journals </p><BR>

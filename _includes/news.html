@@ -1,0 +1,37 @@
+<style>
+#moreNews {display: none;}
+#lessNewsBtn {display: none;}
+</style>
+
+<h4><B>News</B></h4>
+
+<div class="col mt-4">
+<!--  <ul class="show-more-btn" data-config='{ "type": "list", "limit": 5, "element": "li", "more": "↓ show more", "less": "↑ less", "number": true }'>-->
+  <ul>
+  {% for item in site.data.news %}
+    <li style="margin-bottom: -8px; margin-left: -30px; font-size:11pt">
+      <p><B style="display: inline-block; width: 75px;">{{item.date}}</b> {{ item.news }}</p>
+    </li>
+    {% if forloop.index == 3 %} <span id="moreNews"> {% endif %}
+    {% if forloop.index == site.data.news.size %} </span> {% endif %}
+  {% endfor %}
+  </ul>
+  <div style="font-size: 10pt; padding-top:0.5em;" onclick="toggleNews()" id="moreNewsBtn" data-animate="hinge-in-from-top spin-out">&nbsp;&nbsp;<a>↓ Show More</a></div> <!-- ▼▲ ⬇⬆-->
+  <div style="font-size: 10pt; padding-top:0.5em;" onclick="toggleNews()" id="lessNewsBtn" data-animate="hinge-in-from-top spin-out">&nbsp;&nbsp;<a>↑ Show Less</a></div>
+</div>
+<script>
+    function toggleNews() {
+      var moreNews = document.getElementById("moreNews");
+      var moreNewsBtn = document.getElementById("moreNewsBtn");
+      var lessNewsBtn = document.getElementById("lessNewsBtn");
+      if (moreNewsBtn.style.display === "none") {
+        moreNews.style.display = "none";
+        moreNewsBtn.style.display = "inline";
+        lessNewsBtn.style.display = "none";
+      } else {
+        moreNews.style.display = "inline";
+        moreNewsBtn.style.display = "none";
+        lessNewsBtn.style.display = "inline";
+      }
+    }
+</script>
