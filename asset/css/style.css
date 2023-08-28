@@ -1627,83 +1627,111 @@ blockquote p > cite {
 /* Publication details (thumbnail media, title, and description). */
 
 .thumbnail {
-  /*  width: 21%;*/
-    width: 22%;
+/*  width: 21%;*/
+  width: 22%;
+  float: left;
+  margin-right: 3%;
+  border-style: none;
+}
+
+.thumbnail:hover {
+  border-bottom: none;
+}
+
+.thumbnail img {
+  /* margin-top: 0.4em; */
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+.thumbnail video {
+  margin-top: 0.4em;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  line-height: 1.3em;
+  margin-bottom: 0.2em;
+  margin-top: 2%;
+}
+
+@media screen and (max-width: 900px) {
+  h6 {
+    margin-top: 0em;
+  }
+}
+
+h6 a {
+  color: #150c21;
+}
+
+h6 a:hover {
+  color: rgb(20, 110, 190);
+}
+
+.award {
+  color: rgb(20, 110, 190);
+  font-style: italic;
+}
+
+.award:hover{
+  color: rgb(20, 110, 190);
+  text-decoration: underline;
+}
+
+.publication {
+  display: inline-block;
+  margin: 0;
+  /* margin-bottom: 0.5em; */
+}
+
+
+.publication p {
+  font-size: 0.95em;
+  line-height: 1.5em;
+  color: #777;
+}
+
+.project-description {
+  /* font-size: 11pt; */
+  width: 75%;
+  float: left;
+}
+
+.all {
+  margin-top: 2em;
+  text-align: right;
+}
+
+@media screen and (max-width: 480px) {
+  .thumbnail {
+    width: 42%;
     float: left;
     margin-right: 3%;
     border-style: none;
   }
-  
-  .thumbnail:hover {
-    border-bottom: none;
-  }
-  
-  .thumbnail img {
-    /* margin-top: 0.4em; */
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-  }
-  
-  .thumbnail video {
-    margin-top: 0.4em;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-  }
-  
-  h6 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
-    line-height: 1.3em;
-    margin-bottom: 0.2em;
-    margin-top: 2%;
-  }
 
-  @media screen and (max-width: 900px) {
-    h6 {
-      margin-top: 0em;
-    }
-  }
-  
-  h6 a {
-    color: #150c21;
-  }
-  
-  h6 a:hover {
-    color: rgb(20, 110, 190);
-  }
-
-  .award {
-    color: rgb(20, 110, 190);
-    font-style: italic;
-  }
-
-  .award:hover{
-    color: rgb(20, 110, 190);
-    text-decoration: underline;
-  }
-  
-  .publication {
-    display: inline-block;
-    margin: 0;
-    /* margin-bottom: 0.5em; */
-  }
-
-  
-  .publication p {
-    font-size: 0.95em;
-    line-height: 1.5em;
-    color: #777;
+  .list-item {
+    font-size: 11pt;
   }
   
   .project-description {
     /* font-size: 11pt; */
-    width: 75%;
+    width: 55%;
     float: left;
   }
 
-  .all {
-    margin-top: 2em;
-    text-align: right;
+  h6 {
+    font-size: 12pt;
   }
+
+  .publication p {
+    font-size: 11pt;
+  }
+
+}
