@@ -1,31 +1,40 @@
 const lightbox = GLightbox({
 	loop: true,
-	autoplayVideos: true,
-	// skin: 'glightbox-clean'
+	autoplayVideos: true
 })
 
 const lightbox2 = GLightbox({
 	loop: true,
-	autoplayVideos: true,
 	selector: '.glightbox-codraw'
 })
 
 const lightbox3 = GLightbox({
 	loop: true,
-	autoplayVideos: true,
 	selector: '.glightbox-boeing'
+})
+
+const lightbox_kaist = GLightbox({
+	selector: '.glightbox-kaist'
+})
+
+const lightbox_defense = GLightbox({
+	selector: '.glightbox-defense'
+})
+
+const lightbox_gepetto = GLightbox({
+	loop: true,
+	selector: '.glightbox-gepetto'
 })
 
 const lightbox4 = GLightbox({
 	loop: true,
-	autoplayVideos: true,
-	selector: '.glightbox-award'
+	selector: '.glightbox-award',
+	height: 900
 })
 
 const lightbox5 = GLightbox({
-	loop: true,
-	autoplayVideos: true,
-	selector: '.glightbox-cv'
+	selector: '.glightbox-cv',
+	height: 900
 })
 
 ;(function () {
