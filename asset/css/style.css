@@ -1603,6 +1603,7 @@ blockquote p > cite {
 
 .list-item p.date {
   display: inline-block;
+  /* text-align: center; */
   width: 6em;
   color: black;
   margin: 0em;
